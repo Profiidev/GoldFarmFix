@@ -1,0 +1,6 @@
+name: GoldFarmFix
+version: '${version}'
+
+main: io.profidev.goldFarmFix.GoldFarmFix
+api-version: '26.3'
+load: POSTWORLD
